@@ -9,6 +9,7 @@
 #   
 
 library(rvest)
+library(tidyverse)
 
 lego_url <- "http://www.imdb.com/title/tt1490017/"
 
